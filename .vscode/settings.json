@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "pll.h": "c",
+        "clocks.h": "c",
+        "datetime.h": "c",
+        "rtc.h": "c"
+    }
+}
